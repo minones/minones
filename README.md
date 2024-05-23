@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **providing actionable insights as a Power BI Consultant.**
 
-- 🌱 I’m currently learning **dvanced data analytics and business strategy in my Master's program in Business Intelligence and Business Administration**
+- 🌱 I’m currently learning **advanced data analytics and business strategy in my Master's program in Business Intelligence and Business Administration**
 
 - 👯 I’m looking to collaborate on **innovative data analytics projects that drive business growth.**
 
